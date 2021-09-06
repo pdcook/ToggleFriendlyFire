@@ -1,0 +1,11 @@
+{
+    "name": "Toggle_Friendly_Fire",
+    "version_number": "0.0.0",
+    "website_url": "https://github.com/pdcook/ToggleFriendlyFire",
+    "description": "Options to toggle friendly fire and self damage. Commissioned by Zenith",
+    "dependencies": [
+        "willis81808-UnboundLib-2.7.0",
+	"willis81808-MMHook-1.0.0",
+	"BepInEx-BepInExPack_ROUNDS-5.4.1100"
+    ]
+}
